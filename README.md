@@ -1,6 +1,6 @@
 <div align="center">
 
-# Matheus Santos
+# Matheus Ferreira
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Estudante+de+Intelig%C3%AAncia+Artificial;Desenvolvedor+Python+%C2%B7+SQL+%C2%B7+C%23;Criando+Agentes+de+IA+em+CLI;Desenvolvendo+Solu%C3%A7%C3%B5es+Aut%C3%B4nomas)](https://github.com/matheussaf)
 
