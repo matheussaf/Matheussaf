@@ -28,8 +28,8 @@ Estudante de **Inteligência Artificial** na Universidade Santa Cecília (Santos
 ## 🚀 Projetos
 
 | Projeto | Descrição | Stack | Código |
-| :--- | :--- | :--- | :---: |
-| 🤖 **Jarvis** | Assistente autônomo CLI em Python com tool calling e confirmação humana para ações de risco. | Python, Anthropic API, Rich | [Acessar](https://github.com/matheussaf/jarvis) |
+| :--- | :--- | :--- | :--- |
+| ⚡ **BlurMe** | Jogo web interativo de adivinhação de artistas brasileiros com estética Y2K, Web Audio API e banco com 50 artistas. | HTML5, CSS3, JS, Web Audio API | [Acessar](https://matheussaf.github.io/BLUR-ME/) |
 
 ---
 
