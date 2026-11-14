@@ -2,7 +2,7 @@
 
 # Matheus Ferreira
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Estudante+de+Intelig%C3%AAncia+Artificial;Desenvolvedor+Python+%C2%B7+SQL+%C2%B7+C%23;Criando+Agentes+de+IA+em+CLI;Desenvolvendo+Solu%C3%A7%C3%B5es+Aut%C3%B4nomas)](https://github.com/matheussaf)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Oi%2C+eu+sou+o+Matheus;Estudante+de+IA+em+Santos%2C+SP;Construindo+a+SEXTA-FEIRA%2C+minha+IA+por+voz;Python+%C2%B7+SQL+%C2%B7+C%23+%C2%B7+JavaScript;Aprendendo+em+p%C3%BAblico%2C+um+commit+por+vez)](https://github.com/matheussaf)
 
 </div>
 
@@ -33,15 +33,15 @@ Estudante de **Inteligência Artificial** na Universidade Santa Cecília (Santos
 | ⚡ **Blur Me** | Jogo web interativo de adivinhação de artistas brasileiros com estética Y2K, Web Audio API e banco com 50 artistas. | HTML5, CSS3, JS, Web Audio API | [Repositório](https://github.com/matheussaf/BLUR-ME) • [ Jogar](https://matheussaf.github.io/BLUR-ME/) |
 | 🤖 **SEXTA-FEIRA** | Assistente virtual inteligente com voz, pesquisa na web e automações no PC, feita do zero em português do Brasil. | Python, API de IA, HTML/CSS/JS (interface planejada) | [Repositório](https://github.com/matheussaf/SEXTA-FEIRA) • ![Em andamento](https://img.shields.io/badge/status-em%20andamento-F58220?style=flat-square)
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheussaf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=C9D1D9" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussaf&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheussaf&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&title_color=E63946&icon_color=E63946&ring_color=E63946&text_color=C9D1D9" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussaf&layout=donut&theme=dark&bg_color=0D1117&hide_border=true&title_color=E63946&text_color=C9D1D9" alt="Linguagens mais usadas">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=matheussaf&theme=dark&hide_border=true&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&locale=pt_BR" alt="Sequência de contribuições">
+  <img src="https://streak-stats.demolab.com?user=matheussaf&locale=pt_BR&theme=dark&background=0D1117&hide_border=true&stroke=30363D&ring=E63946&fire=E63946&currStreakNum=FFFFFF&currStreakLabel=E63946&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições">
 </p>
 
 ---
