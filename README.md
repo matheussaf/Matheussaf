@@ -27,10 +27,9 @@ Estudante de **Inteligência Artificial** na Universidade Santa Cecília (Santos
 
 ## 🚀 Projetos
 
-| Projeto | Descrição | Stack | Código |
+| Projeto | Descrição | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| ⚡ **BlurMe** | Jogo web interativo de adivinhação de artistas brasileiros com estética Y2K, Web Audio API e banco com 50 artistas. | HTML5, CSS3, JS, Web Audio API | [Acessar](https://matheussaf.github.io/BLUR-ME/) |
-
+| ⚡ **Blur Me** | Jogo web interativo de adivinhação de artistas brasileiros com estética Y2K, Web Audio API e banco com 50 artistas. | HTML5, CSS3, JS, Web Audio API | [Repositório](https://github.com/matheussaf/BLUR-ME) • [🎮 Jogar](https://matheussaf.github.io/BLUR-ME/) |
 ---
 
 ## 📬 Contato
